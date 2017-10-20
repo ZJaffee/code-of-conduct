@@ -20,7 +20,7 @@ These are the rules/the things this space is not for. We tried to keep them shor
 
 * No [harassment](#appendix-a-definitions), including personal attacks.
 * No spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts. Posts not relating to hackathons or tech will also be considered spam.
-* No shitposting, bad programmer jokes, or memes. Consider posting in a [HH Sensible Chuckle](https://www.facebook.com/groups/HHSensibleChuckle/).
+* Shitposting, bad programmer jokes, or memes are considerabily looked down upon, and will be deleted, but will not result in a ban unless other rules are broken as well. Please consider posting in a [HH Sensible Chuckle](https://www.facebook.com/groups/HHSensibleChuckle/).
 * No recruiting for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
 * No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](https://www.facebook.com/groups/hhfreestuff/).
 * No illegal/pirated content, requests for it, or information regarding the distribution of it.
